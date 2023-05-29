@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-I'm a Software Engineer passionated about decentralized applications and blockchain technologies.
+I'm a Software Engineer passionate about decentralized applications and blockchain technologies.
 
 NOW
 * 🏠 Working remotely from somewhere in South East Asia as a Lead Dev and Full Stack software engineer.
-* 🏢 Working on dApps such as https://dokidoki.com or https://kizuna.moe
+* 🏢 Working on dApps such as https://dokidoki.com and https://kizuna.moe
 * 📚 Learning Solidity and Go
 
 BIO
