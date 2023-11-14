@@ -4,11 +4,11 @@ I'm a Software Engineer passionate about decentralized applications and blockcha
 
 NOW
 * 🏠 Working remotely from South Korea as a Lead Dev and Full Stack software engineer.
-* 🏢 Working on dApps such as https://dokidoki.com and https://kizuna.moe
-* 📚 Learning Solidity and Go
+* 🏢 Working on dApps and blockchain related products.
+* 📚 Learning Solidity and Go.
 
 BIO
-* ✨ Worked mainly for startups on-site and remotely
-* ⚙️ I use daily `.sol`, `.ts`, `.js`, `.php`, `.ex`, `docker`, `hardhat`, `vuejs`, `node.js`, `symfony`
+* ✨ Worked mainly for startups on-site and remotely (https://www.andjaro.com/, https://dokidoki.com, https://kizuna.moe...)
+* ⚙️ I use daily `.sol`, `.ts`, `.js`, `.php`, `.ex`, `docker`, `hardhat`, `vuejs`, `node.js`, `symfony`...
 * 📧 Reach me at kirienzo.eth@gmail.com
-* ⚡ Fun Fact: I started as a QA tester in the video game industry, I became a dev several years ago by programming my own tools
+* ⚡ Fun Fact: I started as a QA tester in the video game industry, I became a dev several years ago by programming my own tools for the job!
