@@ -8,6 +8,7 @@ NOW
 * 📚 Sharpening my skills in Solidity and Rust.
 
 BIO
+* 🧑‍🔧 Currently working at [SmarDex](https://smardex.io)
 * ✨ Worked mainly for startups on-site and remotely (https://www.andjaro.com/, https://dokidoki.com, https://kizuna.moe...)
 * ⚙️ I use daily `.sol`, `.rs`, `.ts`, `.js`, `.php`, `.ex`, `docker`, `hardhat`, `vuejs`, `node.js`, `symfony`...
 * 📧 Reach me at kirienzo.eth@gmail.com
