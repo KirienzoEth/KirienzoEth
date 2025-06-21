@@ -10,6 +10,6 @@ NOW
 BIO
 * 🧑‍🔧 Currently working at [SmarDex](https://smardex.io)
 * ✨ Worked mainly for startups on-site and remotely (https://www.andjaro.com/, https://dokidoki.com, https://kizuna.moe...)
-* ⚙️ I use daily `.sol`, `.rs`, `.ts`, `.js`, `.php`, `.ex`, `docker`, `hardhat`, `vuejs`, `node.js`, `symfony`...
+* ⚙️ I use daily `.sol`, `.rs`, `.ts`, `.js`, `.php`, `.ex`, `foundry`...
 * 📧 Reach me at kirienzo.eth@gmail.com
 * ⚡ Fun Fact: I started as a QA tester in the video game industry, I became a dev several years ago by programming my own tools for the job!
